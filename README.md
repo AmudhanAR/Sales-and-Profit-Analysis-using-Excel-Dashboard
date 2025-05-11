@@ -53,6 +53,7 @@ Built an interactive Excel dashboard to analyze sales and profit trends across s
   - Top 10 Profitable Cities (Bar Chart)
   - Top 3 Least Profitable Products (Bar Chart)
   - Shipment Mode Distribution (Pie Chart)
+<img width="625" alt="excel dashboard" src="https://github.com/user-attachments/assets/165da6aa-568e-42fe-a24f-617af4f01c5e" />
 
 - 📊 [Click here to view the Excel Dashboard](https://github.com/AmudhanAR/Sales-and-Profit-Analysis-using-Excel-Dashboard/blob/main/7.%20Dashboard.xlsx)
 
